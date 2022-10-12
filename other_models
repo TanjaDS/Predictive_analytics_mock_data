@@ -1,0 +1,7 @@
+metric,LR_log_sel_f,knn_sel_f,StackingRegr_all_f
+R2_train,0.8504,0.857,0.9679
+R2_test,0.8722,0.8633,0.9158
+RMSE_train,44091.0,30258.0,14327.0
+RMSE_test,25472.0,29404.0,23069.0
+MAE_train,19126.0,18425.0,10320.0
+MAE_test,17533.0,19857.0,16194.0
